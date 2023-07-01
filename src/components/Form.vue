@@ -178,7 +178,7 @@
 export default {
   data() {
     return {
-      currentStep: 1,
+      currentStep: 3,
       formData: {
         pais: "",
         genero: "",
