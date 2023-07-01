@@ -1,29 +1,12 @@
 # userform
 
-This template should help get you started developing with Vue 3 in Vite.
+Customer frontend application made with VueJs, for get data from customers
 
-## Recommended IDE Setup
+### Test Application
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+git clone git@github.com:Allislove/userform.git
 
-## Customize configuration
+branch master start in the step 1, so you are fine!
+git checkout step-2   (for test the second step)
+git checkout step-3   (for test the third step)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
