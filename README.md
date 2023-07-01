@@ -15,3 +15,27 @@ Customer frontend application made with VueJs, for get data from customers
 
 `git checkout step-3   (for test the third step)`
 
+
+# Example of data send into the web console
+```
+{
+    "pais": "Colombia",
+    "genero": "Masculino",
+    "nombre": "Andrés",
+    "apellido": "Romaña",
+    "fechaDeNacimiento": "1997-09-14",
+    "tipoDocumento": "CC",
+    "numeroDocumento": "1017250923",
+    "fotoDocumentoFrente": "",
+    "fotoDocumentoReverso": "",
+    "email": "sssssssss@gmail.com",
+    "contrasena1": "ssssssss",
+    "contrasena2": "ssssssss",
+    "telefono": "3114074063",
+    "numeroCelular": "3114074063",
+    "direccion": "Calle ",
+    "ciudad": "Medellin",
+    "codigoPostal": "05001"
+}
+
+```
